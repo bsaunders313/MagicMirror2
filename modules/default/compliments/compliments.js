@@ -15,29 +15,31 @@ Module.register("compliments", {
 				"Hey there!"
 			],
 			morning: [
-				"Good morning, Human!",
+				"Good morning!",
 				"Enjoy your day!",
 				"How was your sleep?"
 			],
 			afternoon: [
-				"Hello, Human!",
+				"Hello!",
 				"You look nice today!",
 				"Looking good!"
 			],
 			evening: [
-				"Got plans?",
-				"You look fancy!",
-				"Netflix?"
+				"Good evening!",
+				"How was your day?",
+				"I hope your day went well!"
 			],
 			day_sunny: [
-				"Today is a sunny day",
-				"It's a beautiful day"
+				"The sun is shining today!",
+				"It's a beautiful day!"
 			],
 			snow: [
-				"Snowball battle!"
+				"Snowball Fight!",
+				"Do you want to build a snowman?"
 			],
 			rain: [
-				"Don't forget your umbrella"
+				"Don't forget your umbrella!",
+				"Drip Drop!"
 			]	
 		},
 		updateInterval: 30000,
